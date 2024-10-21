@@ -15,7 +15,7 @@ data class Anime(
     val synopsis: String,
     val episodes: Int,
     val status: String,
-    val episodesAired: String
+    val episodesAired: Int
 )
 
 class AnimeAdapter(private var animeList: List<Anime>) : RecyclerView.Adapter<AnimeAdapter.AnimeViewHolder>() {
@@ -34,14 +34,17 @@ class AnimeAdapter(private var animeList: List<Anime>) : RecyclerView.Adapter<An
             .load(anime.imageUrl)
             .into(holder.animeImageView)
 
-        // Evento de clic para mostrar los detalles del anime
+        // Cuando se hace clic en un anime, abrimos la pantalla de detalles
         holder.itemView.setOnClickListener {
             val context = holder.itemView.context
-            val intent = Intent(context, AnimeDetailActivity::class.java)
-            intent.putExtra("title", anime.title)
-            intent.putExtra("imageUrl", anime.imageUrl)
-            intent.putExtra("synopsis", anime.synopsis)
-            intent.putExtra("episodes", anime.episodes)
+            val intent = Intent(context, AnimeDetailActivity::class.java).apply {
+                putExtra("title", anime.title)
+                putExtra("imageUrl", anime.imageUrl)
+                putExtra("synopsis", anime.synopsis)
+                putExtra("episodes", anime.episodes)
+                putExtra("status", anime.status)
+                putExtra("episodesAired", anime.episodesAired)
+            }
             context.startActivity(intent)
         }
     }

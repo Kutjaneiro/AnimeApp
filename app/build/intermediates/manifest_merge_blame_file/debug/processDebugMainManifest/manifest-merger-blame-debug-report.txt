@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:4:5-67
-11-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:4:22-64
+11-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:4:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.12.0] C:\Users\tativ\.gradle\caches\transforms-4\4795750176bed9bcba7caf852326d1a0\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
@@ -24,46 +24,46 @@
 17-->[androidx.core:core:1.12.0] C:\Users\tativ\.gradle\caches\transforms-4\4795750176bed9bcba7caf852326d1a0\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:6:5-25:19
+19-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:6:5-25:19
 20        android:allowBackup="true"
-20-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:7:9-35
+20-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:7:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.12.0] C:\Users\tativ\.gradle\caches\transforms-4\4795750176bed9bcba7caf852326d1a0\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 22        android:debuggable="true"
 23        android:extractNativeLibs="false"
 24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:8:9-43
+24-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:8:9-43
 25        android:label="@string/app_name"
-25-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:9:9-41
+25-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:9:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:10:9-54
+26-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:10:9-54
 27        android:supportsRtl="true"
-27-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:11:9-35
+27-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:11:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-29-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:12:9-68
+29-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:12:9-68
 30        <activity
-30-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:14:9-22:20
+30-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:14:9-22:20
 31            android:name="com.example.test.MainActivity"
-31-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:15:13-41
+31-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:15:13-41
 32            android:exported="true"
-32-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:16:13-36
+32-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:16:13-36
 33            android:label="@string/app_name" >
-33-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:17:13-45
+33-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:17:13-45
 34            <intent-filter>
-34-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:18:13-21:29
+34-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:18:13-21:29
 35                <action android:name="android.intent.action.MAIN" />
-35-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:19:17-69
-35-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:19:25-66
+35-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:19:17-69
+35-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:19:25-66
 36
 37                <category android:name="android.intent.category.LAUNCHER" />
-37-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:20:17-77
-37-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:20:27-74
+37-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:20:17-77
+37-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:20:27-74
 38            </intent-filter>
 39        </activity>
 40        <activity android:name="com.example.test.AnimeDetailActivity" />
-40-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:24:9-57
-40-->C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:24:19-54
+40-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:24:9-57
+40-->C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:24:19-54
 41        <activity
 41-->[androidx.compose.ui:ui-tooling-android:1.6.0] C:\Users\tativ\.gradle\caches\transforms-4\d09fc08d3210b54bc72a4e45cd7ce8b8\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
 42            android:name="androidx.compose.ui.tooling.PreviewActivity"

@@ -45,9 +45,9 @@ com.example.test.app-core-runtime-2.2.0-43 C:\Users\tativ\.gradle\caches\transfo
 com.example.test.app-foundation-layout-release-44 C:\Users\tativ\.gradle\caches\transforms-4\e80bc698d9aba7d95a2fd6879d69b95e\transformed\foundation-layout-release\res
 com.example.test.app-ui-util-release-45 C:\Users\tativ\.gradle\caches\transforms-4\ecc790bce7f6ff258a9166bbe887ed44\transformed\ui-util-release\res
 com.example.test.app-ui-tooling-preview-release-46 C:\Users\tativ\.gradle\caches\transforms-4\f446e904c482f5e78a397292a6d01f37\transformed\ui-tooling-preview-release\res
-com.example.test.app-resValues-47 C:\Users\tativ\AndroidStudioProjects\Test\app\build\generated\res\resValues\debug
-com.example.test.app-packageDebugResources-48 C:\Users\tativ\AndroidStudioProjects\Test\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.test.app-packageDebugResources-49 C:\Users\tativ\AndroidStudioProjects\Test\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.test.app-debug-50 C:\Users\tativ\AndroidStudioProjects\Test\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.test.app-debug-51 C:\Users\tativ\AndroidStudioProjects\Test\app\src\debug\res
-com.example.test.app-main-52 C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\res
+com.example.test.app-resValues-47 C:\Users\tativ\Desktop\AnimeApp\app\build\generated\res\resValues\debug
+com.example.test.app-packageDebugResources-48 C:\Users\tativ\Desktop\AnimeApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.test.app-packageDebugResources-49 C:\Users\tativ\Desktop\AnimeApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.test.app-debug-50 C:\Users\tativ\Desktop\AnimeApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.test.app-debug-51 C:\Users\tativ\Desktop\AnimeApp\app\src\debug\res
+com.example.test.app-main-52 C:\Users\tativ\Desktop\AnimeApp\app\src\main\res

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\tativ\.gradle\caches\transforms-4\5cdc2498aae75894c95aa88e073ed4fc\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\tativ\.gradle\caches\transforms-4\37584f4bb075480f9fdb90afa16c86a6\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\tativ\.gradle\caches\transforms-4\a93a44b140e85bf038e5f5f91b82a3ba\transformed\material3-release\AndroidManifest.xml:17:1-22:12
@@ -65,20 +65,20 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tativ\.gradle\cach
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tativ\.gradle\caches\transforms-4\310e153b956bd74fcbd677be716834d3\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tativ\.gradle\caches\transforms-4\2020f706cc6f33bcd6bad239e2cccf20\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:6:5-25:19
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:6:5-25:19
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:6:5-25:19
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:6:5-25:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] C:\Users\tativ\.gradle\caches\transforms-4\d09fc08d3210b54bc72a4e45cd7ce8b8\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] C:\Users\tativ\.gradle\caches\transforms-4\d09fc08d3210b54bc72a4e45cd7ce8b8\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] C:\Users\tativ\.gradle\caches\transforms-4\4eff81f44ef2ea1c1b95d278ae9a900b\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:22:5-26:19
@@ -100,47 +100,47 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tativ\.g
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tativ\.gradle\caches\transforms-4\bac380f825c6f4ef77ad33b2d07e5452\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tativ\.gradle\caches\transforms-4\bac380f825c6f4ef77ad33b2d07e5452\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\tativ\.gradle\caches\transforms-4\4795750176bed9bcba7caf852326d1a0\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:12:9-68
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:12:9-68
 activity#com.example.test.MainActivity
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:14:9-22:20
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:14:9-22:20
 	android:label
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:17:13-45
 	android:exported
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:18:13-21:29
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:18:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:20:27-74
 activity#com.example.test.AnimeDetailActivity
-ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:24:9-57
+ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:24:9-57
 	android:name
-		ADDED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml:24:19-54
+		ADDED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml:24:19-54
 uses-sdk
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\tativ\.gradle\caches\transforms-4\5cdc2498aae75894c95aa88e073ed4fc\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\tativ\.gradle\caches\transforms-4\5cdc2498aae75894c95aa88e073ed4fc\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\tativ\.gradle\caches\transforms-4\37584f4bb075480f9fdb90afa16c86a6\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
@@ -262,9 +262,9 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tativ\.gradle\caches\trans
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tativ\.gradle\caches\transforms-4\2020f706cc6f33bcd6bad239e2cccf20\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tativ\.gradle\caches\transforms-4\2020f706cc6f33bcd6bad239e2cccf20\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\tativ\AndroidStudioProjects\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tativ\Desktop\AnimeApp\app\src\main\AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] C:\Users\tativ\.gradle\caches\transforms-4\d09fc08d3210b54bc72a4e45cd7ce8b8\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
 	android:exported

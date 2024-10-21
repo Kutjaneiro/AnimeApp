@@ -77,7 +77,13 @@ class MainActivity : AppCompatActivity() {
                         val synopsis = animeObject.optString("synopsis", "Sinopsis no disponible")
                         val episodes = animeObject.optInt("episodes", 0)
                         val status = animeObject.optString("status", "Estado no disponible")
-                        val episodesAired = animeObject.optJSONObject("aired")?.optInt("aired_episodes", 0) ?: 0
+
+                        // Comprobar si existen los episodios emitidos
+                        val episodesAired = if (animeObject.has("aired") && !animeObject.isNull("aired")) {
+                            animeObject.getJSONObject("aired").optInt("aired_episodes", 0)
+                        } else {
+                            0
+                        }
 
                         animeList.add(Anime(title, imageUrl, synopsis, episodes, status, episodesAired))
                     }
@@ -89,5 +95,4 @@ class MainActivity : AppCompatActivity() {
             }
         })
     }
-
 }
